@@ -1,2 +1,3 @@
-export * from "./HomeScreen";
-export * from "./AddTransaction";
+export * from './Debtor';
+export * from './NewDebt';
+export * from './TransactionList';
